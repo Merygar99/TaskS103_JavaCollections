@@ -1,6 +1,7 @@
 📚 **Java Collections – Practice Exercises**
 
 🧩 **About This Repository**
+
 This repository contains a curated set of exercises designed to practice and deepen understanding of the Java Collections Framework. It explores core concepts such as lists, sets, maps, iterators, sorting, and object comparison through real-world-inspired challenges and structured code examples.
 
 📋 **Topics Covered**
