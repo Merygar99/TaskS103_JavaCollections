@@ -1,11 +1,11 @@
-📚 Java Collections – Practice Exercises
+📚 **Java Collections – Practice Exercises**
 
-🧩 About This Repository
+🧩 **About This Repository**
 This repository contains a curated set of exercises designed to practice and deepen understanding of the Java Collections Framework. It explores core concepts such as lists, sets, maps, iterators, sorting, and object comparison through real-world-inspired challenges and structured code examples.
 
-📋 Topics Covered
+📋 **Topics Covered**
 
-  ✅ Lists
+  ✅ *Lists*
   - Using ArrayList and LinkedList
 
   - Maintaining insertion order
@@ -16,7 +16,7 @@ This repository contains a curated set of exercises designed to practice and dee
 
   - Comparing lists with assertions
 
-  ✅ Sets
+  ✅ *Sets*
   - Eliminating duplicates with HashSet
 
   - Maintaining order with LinkedHashSet and TreeSet
@@ -25,7 +25,7 @@ This repository contains a curated set of exercises designed to practice and dee
 
   - Testing presence of elements
 
-  ✅ Maps
+  ✅ *Maps*
   - Storing key-value pairs with HashMap and TreeMap
 
   - Checking key existence (containsKey)
@@ -34,35 +34,28 @@ This repository contains a curated set of exercises designed to practice and dee
 
   - Performing assertions with map entries and keys
 
-  ✅ Optional
+  ✅ *Optional*
   - Creating and validating empty or non-empty Optionals
 
   - Handling absent values with isEmpty() and isPresent()
 
   - Assertion patterns for Optionals
 
-  ✅ Object Identity vs Equality
+  ✅ *Object Identity vs Equality*
   - Asserting same instance with assertSame
 
   - Asserting content equality with assertEquals
 
   - Using equals() and hashCode() properly
 
-  ✅ Exception Handling
+  ✅ *Exception Handling*
   - Triggering and validating exceptions like ArrayIndexOutOfBoundsException
 
   - Using assertThrows for expected exception behavior
 
-  ✅ JUnit & AssertJ
-  - Parameterized tests
-
-  - Assertions for arrays, collections, maps
-
-  - Fluent assertions for clearer test semantics
-
 ---
 
-💡 Learning Goals
+💡 **Learning Goals**
 
 - Master fundamental Collection types in Java
 
@@ -76,7 +69,7 @@ This repository contains a curated set of exercises designed to practice and dee
 
 ---
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
 - Java 17+
 
 - IntelliJ IDEA
